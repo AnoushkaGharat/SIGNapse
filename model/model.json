@@ -1,0 +1,51 @@
+{
+  "classes": [
+    "A",
+    "H",
+    "K",
+    "N",
+    "O",
+    "S",
+    "U",
+    "hello",
+    "is",
+    "my",
+    "name"
+  ],
+  "input_exp": 7,
+  "output_exp": 1,
+  "feat": 64,
+  "layers": [
+    {
+      "m": 1,
+      "k": 64,
+      "n": 64,
+      "shift": 9,
+      "relu": true,
+      "w_layout": "k_major",
+      "w_file": "layer0_w.hex",
+      "b_file": "layer0_b.hex"
+    },
+    {
+      "m": 1,
+      "k": 64,
+      "n": 32,
+      "shift": 9,
+      "relu": true,
+      "w_layout": "k_major",
+      "w_file": "layer1_w.hex",
+      "b_file": "layer1_b.hex"
+    },
+    {
+      "m": 1,
+      "k": 32,
+      "n": 11,
+      "shift": 8,
+      "relu": false,
+      "w_layout": "k_major",
+      "w_file": "layer2_w.hex",
+      "b_file": "layer2_b.hex"
+    }
+  ],
+  "macs_per_inference": 6496
+}
