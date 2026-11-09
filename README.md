@@ -62,4 +62,5 @@ Similar approach: Kazuhito00, hand-gesture-recognition-using-mediapipe (Apache 2
 
 
 <img width="306" height="86" alt="image" src="https://github.com/user-attachments/assets/0442d90a-34d3-4af8-97f7-886ec9db43ef" />
+
 Proud sponsor of Basic's of ASICs
