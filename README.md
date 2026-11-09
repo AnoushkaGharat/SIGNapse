@@ -1,4 +1,5 @@
 <img width="520" height="83" alt="image" src="https://github.com/user-attachments/assets/e895da18-fc10-480a-8dcb-cfcdc3418534" />
+
 SIGNapse
 Ananya Bontha, Rachel Krol, Shruti Sivaraman, Anoushka Gharat
 
